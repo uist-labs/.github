@@ -3,7 +3,7 @@
 A small, independent AI/ML lab. We build open tooling and publish certified,
 quantized open-model checkpoints - held to a stated accuracy bar before they ship.
 
-- Website: https://www.uistlabs.com
+- Website: https://www.uist-labs.com
 - Models on Hugging Face: https://huggingface.co/uist-labs
 
 ## What we do
@@ -22,11 +22,11 @@ hardware you already have, not the hardware you would have to buy.
 
 ## Open projects
 
-- **[assay](https://github.com/uistlabs/assay)** - the Apache-2.0 NVFP4 quantize ->
+- **[assay](https://github.com/uist-labs/assay)** - the Apache-2.0 NVFP4 quantize ->
   benchmark -> gate -> publish pipeline behind every checkpoint we release.
-- **[beautifulyze](https://github.com/uistlabs/beautifulyze)** - render a piece of
+- **[beautifulyze](https://github.com/uist-labs/beautifulyze)** - render a piece of
   music into a picture a language model can read.
-- **[cogito](https://github.com/uistlabs/cogito)** - an experimental framework for
+- **[cogito](https://github.com/uist-labs/cogito)** - an experimental framework for
   exploring autonomous AI cognition through recursive self-prompting.
 
 ## How we work
